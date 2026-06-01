@@ -1,2 +1,2 @@
-# Organization REAMDE
+# Organization README
 Welcome welcome
