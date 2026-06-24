@@ -4,7 +4,7 @@ Welcome! This README outlines how we write, structure, and maintain projects acr
 
 ## Style Guide
 
-Based on the DS-Handbook style guide: https://elixir-europe.github.io/ds-handbook/style-guide
+Based on the [DS-Handbook style guide](https://elixir-europe.github.io/ds-handbook/style-guide).
 
 ### Voice and Tone
 
@@ -16,7 +16,7 @@ Based on the DS-Handbook style guide: https://elixir-europe.github.io/ds-handboo
 
 * Language: English (British or American?).
 * Define acronyms at first use.
-* Accessibility: write meaningful link text; add alt text to images; avoid color-only meaning.
+* Accessibility: write meaningful link text; add alt text to images.
 * Inclusive language: avoid assumptions about identities, abilities, or resources.
 
 ### Page Structure (LiaScript)
@@ -29,3 +29,7 @@ Because LiaScript splits pages by header levels:
 * For H4, use an underlined style (HTML underline):
   - Example: “\<u>File Naming Conventions\</u>”
 * Capitalize titles: “Publishing and Archiving” (not “publishing and archiving”).
+
+## Code Guide
+
+For the current level of complexity of the projects, we agreed on just pushing on main. This might change depending on what kind of projects will be developed here and what level of collaboration is required.
