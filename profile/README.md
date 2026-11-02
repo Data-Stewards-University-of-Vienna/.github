@@ -25,10 +25,10 @@ Because LiaScript splits pages by header levels:
 
 * Use H1 (#) for section title; one per document.
 * Use H2 (##) for main sections.
-* For H3, use a bold line instead of ###.
+* For H3, use setext heading (Header 2 in [here](https://www.markdownlang.com/cheatsheet/headings.html#setext-style-headings)) instead of ###.
 * For H4, use an underlined style (HTML underline):
-  - Example: “\<u>File Naming Conventions\</u>”
-* Capitalize titles: “Publishing and Archiving” (not “publishing and archiving”).
+  - Example: “\<u>Header 4\</u>”
+* Capitalize titles of all headers: “Publishing and Archiving” (not “Publishing and archiving”).
 
 ## Code Guide
 
