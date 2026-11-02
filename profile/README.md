@@ -14,7 +14,7 @@ Based on the [DS-Handbook style guide](https://elixir-europe.github.io/ds-handbo
 
 ### Language
 
-* Language: English (British or American?).
+* Language: American English.
 * Define acronyms at first use.
 * Accessibility: write meaningful link text; add alt text to images.
 * Inclusive language: avoid assumptions about identities, abilities, or resources.
